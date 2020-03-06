@@ -1,0 +1,10 @@
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\bin\Debug\imagecompiler.exe.config
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\bin\Debug\imagecompiler.exe
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\bin\Debug\imagecompiler.pdb
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.csprojAssemblyReference.cache
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.Form1.resources
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.Properties.Resources.resources
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.exe
+C:\Users\emir_\source\repos\imagecompiler\imagecompiler\obj\Debug\imagecompiler.pdb
