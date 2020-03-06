@@ -1,3 +1,5 @@
+// w/ using
+
 Bitmap img1;
 Bitmap img2;
 var target = new Bitmap(img1.Width, img1.Height, PixelFormat.Format32bppArgb);
@@ -8,3 +10,19 @@ graphics.DrawImage(img1, 0, 0);
 graphics.DrawImage(img2, 0, 0);
 
 target.Save("filename.png", ImageFormat.Png);
+
+
+
+// w/o usings
+
+
+
+
+   var target = new Bitmap(pictureBox1.Image.Width, pictureBox1.Image.Height, System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+            var graphics = Graphics.FromImage(target);
+            graphics.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceOver;
+
+            graphics.DrawImage(pictureBox1.Image, 0, 0);
+            graphics.DrawImage(pictureBox2.Image, 0, 0);
+
+            target.Save("filename.png", System.Drawing.Imaging.ImageFormat.Png);
