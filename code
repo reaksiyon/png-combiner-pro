@@ -2,7 +2,7 @@ Bitmap img1;
 Bitmap img2;
 var target = new Bitmap(img1.Width, img1.Height, PixelFormat.Format32bppArgb);
 var graphics = Graphics.FromImage(target);
-graphics.CompositingMode = CompositingMode.SourceOver
+graphics.CompositingMode = CompositingMode.SourceOver;
 
 graphics.DrawImage(img1, 0, 0);
 graphics.DrawImage(img2, 0, 0);
