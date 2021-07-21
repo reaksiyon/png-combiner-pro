@@ -7,4 +7,12 @@ combine2png
    </tr>
 </table>
 
+# Usage
+
+<li>Drag first PNG to first panel.</li>
+<li>Drag second PNG to second panel.</li>
+<li>Enter the file name for export.</li>
+<li>Set the save path.</li>
+<li>Click GO!</li>
+<br/><br/>
 PNG1+PNG2=MergedPNG
